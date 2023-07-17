@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.fizzbuzz-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.fizzbuzz-item {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border: 1px solid #000;
+    margin: 5px;
+}
